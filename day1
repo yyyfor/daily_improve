@@ -1,0 +1,14 @@
+1. add shell script to solve bastion connection problems
+2. commit link slugs, fixed bucket PR
+3. use map.stream() to handle transfomation at Mono<List>
+4. remove .gnupg folder and regenerate yubki solve gpg sign problem
+5. use intellij to connect monogo dev and staging. Should indicate admin first when connect to dev.
+6. use intellij http request to make a post request.
+7. practice mongo group command.
+
+todo:
+1. redis bastion doc
+2. general exception handler
+
+
+
